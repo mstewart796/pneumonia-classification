@@ -1,6 +1,8 @@
 # Pneumonia Detection CNN
 
-This project uses a Convolutional Neural Network (CNN) to detect pneumonia from chest X-ray images. **Note:** The current results are based on an initial round of training and will be improved with further fine-tuning and training.
+This project uses a Convolutional Neural Network (CNN) to detect pneumonia from chest X-ray images. 
+
+**Note:** The current results are based on an initial round of training and will be improved with further fine-tuning and training.
 
 ### Current Training Results:
 - **Validation Accuracy**: 72.02%
